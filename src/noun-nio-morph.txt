@@ -1,0 +1,99 @@
+LEXICON AdjTag ! beginning 
++A: # ;
+
+LEXICON Noun1 ! 
+ NOUN ;
+
+
+!! 
+
+LEXICON NOUN
++N: SGNOMSUF ;
++N: SGGENSUF ;
++N: SGACCSUF ;
++N: SGLOCSUF ;
++N: SGELASUF ;
++N: SGPRLSUF ;
+
++N: PLNOMSUF ;
++N: PLGENSUF ;
++N: PLACCSUF ;
++N: PLLOCSUF ;
++N: PLELASUF ;
++N: PLPRLSUF ;
+
++N: DUNOMSUF ;
++N: DUGENSUF ;
++N: DUACCSUF ;
+!+N: PLLOCSUF ;
+!+N: PLELASUF ;
+!+N: PLPRLSUF ;
+
+
+!!!!!!!!!!!!!!!!!!
+!! PROPER NOUNS !!
+!!!!!!!!!!!!!!!!!!
+
+LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
+    PROP ;
+:%: PROP ;
+:%- PROP ;
+:%' PROP ;
+
+LEXICON PROP
++Prop: NOUN ;
+
+!!!!!!!!!!!!!!!!!!
+!! ACTUAL CASES !!
+!!!!!!!!!!!!!!!!!!
+
+LEXICON SGNOMSUF
++Sg+Nom: K ;
+
+LEXICON SGGENSUF
++Sg+Gen:%>n K ;
+
+LEXICON SGACCSUF
++Sg+Acc:%>n K ;
+
+LEXICON SGLOCSUF
++Sg+Loc:%>ks K ;
+
+LEXICON SGELASUF
++Sg+Ela:%>ta K ;
+
+LEXICON SGPRLSUF
++Sg+Prl:%>dme K ;
+
+
+
+
+
+
+!! Start Plural
+
+LEXICON PLNOMSUF
++Pl+Nom: K ;
+
+LEXICON PLGENSUF
++Pl+Gen:%>n K ;
+
+LEXICON PLACCSUF
++Pl+Acc:%>n K ;
+
+LEXICON PLLOCSUF
++Pl+Loc:%>ks K ;
+
+LEXICON PLELASUF
++Pl+Ela:%>ta K ;
+
+LEXICON PLPRLSUF
++Pl+Prl:%>dme K ;
+
+
+
+
+
+
+
+!! Possessor Indices
