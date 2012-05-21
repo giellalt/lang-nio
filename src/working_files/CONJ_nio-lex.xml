@@ -4,44 +4,22 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <entry>
       <lg>
-         <l>ситти</l>
+         <l>ӈонә</l>
          <stg>
-            <st nioContlex="Num1">ситти</st>
+            <st nioContlex="Cc">ӈонә</st>
          </stg>
       </lg>
-      <pos>NUM</pos>
+      <pos>CC</pos>
       <e>
          <mg>
             <m>
                <head/>
             </m>
             <tg lang="eng">
-               <t>two</t>
+               <t>and</t>
             </tg>
             <tg lang="fin">
-               <t>kaksi</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
-      <lg>
-         <l>нагүрь</l>
-         <stg>
-            <st nioContlex="Num1">нагүрь</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>three</t>
-            </tg>
-            <tg lang="fin">
-               <t>kolme</t>
+               <t>ja</t>
             </tg>
          </mg>
       </e>

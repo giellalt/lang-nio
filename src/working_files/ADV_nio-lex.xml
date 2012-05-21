@@ -4,44 +4,26 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <entry>
       <lg>
-         <l>ситти</l>
+         <l>хӱотә</l>
          <stg>
-            <st nioContlex="Num1">ситти</st>
+            <st nioContlex="TempTag">хӱотә</st>
          </stg>
       </lg>
-      <pos>NUM</pos>
+      <pos>TEMP</pos>
       <e>
          <mg>
             <m>
                <head/>
             </m>
             <tg lang="eng">
-               <t>two</t>
+               <t>as before</t>
+               <t>constantly</t>
+               <t>always</t>
             </tg>
             <tg lang="fin">
-               <t>kaksi</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
-      <lg>
-         <l>нагүрь</l>
-         <stg>
-            <st nioContlex="Num1">нагүрь</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>three</t>
-            </tg>
-            <tg lang="fin">
-               <t>kolme</t>
+               <t>niin kuin ennen</t>
+               <t>jatkuvasti</t>
+               <t>aina</t>
             </tg>
          </mg>
       </e>

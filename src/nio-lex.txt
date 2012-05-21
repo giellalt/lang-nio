@@ -125,6 +125,12 @@ LEXICON AdvTag
 LEXICON MannerTag
 +Adv+Manner: K ;
 
+LEXICON SpatTag
++Adv+Spat: K ;
+
+LEXICON TempTag
++Adv+Temp: K ;
+
 LEXICON CASESUF
 #; 
 LEXICON PRON

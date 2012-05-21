@@ -25,7 +25,7 @@ echo << THE DEFININTIONS >>
 
 define Cns [ б | в | г | д | ж | з | й | к | л | м | н 
            | Б | В | Г | Д | Ж | З | Й | К | Л | М | Н  
-           | ӈ | п | р | с | т | " 
+           | ӈ | п | р | с | т 
            | Ӈ | П | Р | С | Т 
            | Ǯ | ǯ ] ; ! The last two are Latin Letter Ezh with caron
 
