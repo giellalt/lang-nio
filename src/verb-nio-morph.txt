@@ -1,6 +1,0 @@
-LEXICON V-munsa
- VERB ;
-
-LEXICON VERB
-+Prt+Sc3Sg:%>уˮо # ;
-+Prt+Sc3Sg:%>унту # ;
