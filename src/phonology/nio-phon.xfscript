@@ -1,0 +1,75 @@
+! This file is a script for the Xerox xfst interface.
+! It gives the morphophonological rules for Veps.
+
+
+! In this file, testcases are marked as follows:
+
+! space exclmark euro space upper:lower
+! Please add tests for eventual new rules or problems
+
+! To test: in kt/nio/src, do:
+! xfst -e "source xfst-nio.txt"
+! invert net
+! save s
+! quit
+! cat xfst-nio.txt | grep €|cut -d" " -f3|cut -d":" -f1|lookup s
+
+
+clear stack
+
+
+! Definition section !
+! ================== !
+
+echo << THE DEFININTIONS >>
+
+define Cns [ б | в | г | д | ж | з | й | к | л | м | н 
+           | Б | В | Г | Д | Ж | З | Й | К | Л | М | Н  
+           | ӈ | п | р | с | т 
+           | Ӈ | П | Р | С | Т 
+           | Ǯ | ǯ ] ; ! The last two are Latin Letter Ezh with caron
+
+define Vws [ а | о | ә | у | ү | ө | е | и | я 
+           | А | О | Ә | У | Ү | Ө | Е | И | Я ] ;
+
+define Glottal [ ˮ | ʼ ] ; ! soft sign
+
+define Lts [ Cns | Vws | Glottal ] ; !
+
+define Dummy %> ; 
+
+
+
+! Rule section !
+! ============ !
+
+echo << THE RULES >>
+
+
+define VowelCorrelation [ V1 -> а || [ QAO1 ]  %> h _ ,,
+                          V1 -> e || [ i ] %> h _ ,,
+                          V1 -> e || [ QEQ ]  %> h _  ,,
+                          V1 -> o || o %> h _   ] ; ! Vowel harmony
+
+define StemFinalVowelLoss [ QAO1 -> 0 , QEQ -> 0 || _ .#. ] ;
+ !€ ты>хА1на:тэхэна
+
+define QAO [ QAO1 -> a || _ %> [ n | d | t a | k s | l | h V1 | n n o | d m e | s ] ,,
+            QAO1 -> o || _ %> i ] ;
+
+define S2SH     [ s -> š || i %> _ ] ;
+
+define DummyDeletion Dummy -> 0 ;
+
+
+
+read regex [
+
+    VowelCorrelation
+.o. StemFinalVowelLoss
+.o. QAO
+.o. S2SH
+.o. DummyDeletion
+] ;
+
+
