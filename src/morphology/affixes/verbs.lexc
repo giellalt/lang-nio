@@ -1,0 +1,11 @@
+! Verb inflection
+! Nganasan verb conjugate.
+
+LEXICON V-munsa
+ VERB ;
+
+LEXICON VERB
++Prt+Sc3Sg:%>уˮо # ;
++Prt+Sc3Sg:%>унту # ;
+
+! vim: set ft=xfst-lexc:

@@ -1,0 +1,19 @@
+! Quantifier inflection
+
+LEXICON Num1
+ NumTag ;
+
+! 2012-09-12 This distinction should be left for syntax
+LEXICON NumTag
++Qnt+Attr: K ;
++Qnt+Der/MWN: # ;
+
+LEXICON DNUM
++Qnt+Attr: K ;
++Qnt+Der/MWN: # ;
+
+LEXICON NNUM
++Qnt+Attr: K ;
++Qnt+Der/MWN: # ;
+
+! vim: set ft=xfst-lexc:

@@ -1,0 +1,124 @@
+! Noun Inflection
+
+LEXICON Noun1 ! 
+ NOUN ;
+
+
+!! 
+
+LEXICON NOUN
++N: SGNOMSUF ;
++N: SGGENSUF ;
++N: SGACCSUF ;
++N: SGDATSUF ;
++N: SGLOCSUF ;
++N: SGELASUF ;
++N: SGPRLSUF ;
+
++N: PLNOMSUF ;
++N: PLGENSUF ;
++N: PLACCSUF ;
++N: PLDATSUF ;
++N: PLLOCSUF ;
++N: PLELASUF ;
++N: PLPRLSUF ;
+
++N: DUNOMSUF ;
++N: DUGENSUF ;
++N: DUACCSUF ;
+!+N: DUDATSUF ;
+!+N: PLLOCSUF ;
+!+N: PLELASUF ;
+!+N: PLPRLSUF ;
+
+
+!!!!!!!!!!!!!!!!!!
+!! ACTUAL CASES !!
+!!!!!!!!!!!!!!!!!!
+
+LEXICON SGNOMSUF
++Sg+Nom: K ;
+
+LEXICON SGGENSUF
++Sg+Gen:%>n K ;
+
+LEXICON SGACCSUF
++Sg+Acc:%>n K ;
+
+LEXICON SGDATSUF
++Sg+Dat:%>n K ;
+
+LEXICON SGLOCSUF
++Sg+Loc:%>тини K ;
+
+LEXICON SGELASUF
++Sg+Ela:%>ta K ;
+
+LEXICON SGPRLSUF
++Sg+Prl:%>dme K ;
+
+
+
+
+
+
+!! Start Plural
+
+LEXICON PLNOMSUF
++Pl+Nom:%>ˮ K ;
+
+LEXICON PLGENSUF
++Pl+Gen:%>n K ;
+
+LEXICON PLACCSUF
++Pl+Acc:%>n K ;
+
+LEXICON PLDATSUF
++Pl+Dat:%>ˮ%>дя K ;
+
+LEXICON PLLOCSUF
++Pl+Loc:%>ks K ;
+
+LEXICON PLELASUF
++Pl+Ela:%>ta K ;
+
+LEXICON PLPRLSUF
++Pl+Prl:%>dme K ;
+
+
+!! Start Dual
+
+LEXICON DUNOMSUF
++Du+Nom: K ;
+
+LEXICON DUGENSUF
++Du+Gen:%>n K ;
+
+LEXICON DUACCSUF
++Du+Acc:%>n K ;
+
+LEXICON DUDATSUF
++Du+Dat:%>n K ;
+
+LEXICON DULOCSUF
++Du+Loc:%>ks K ;
+
+LEXICON DUELASUF
++Du+Ela:%>ta K ;
+
+LEXICON DUPRLSUF
++Du+Prl:%>dme K ;
+
+
+
+
+
+
+
+!! Possessor Indices
+
+LEXICON POS3SG
++Px3Sg+Sg+Nom:%>ǯы # ;
++Px3Sg+Sg+Dat:%>нту%>дя # ;
+
+! vim: set ft=xfst-lexc:
