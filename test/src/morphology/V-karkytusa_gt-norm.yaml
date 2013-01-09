@@ -1,0 +1,30 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Verb - каркытуса: # Verb I. '/(eng) to twitch/(rus) дёргаться' - 
+# Nganasan verbs (imperfective, present tense)
+# NgDic 2001; typed up FS
+# Verb stems ending in -у/-ү
+# (2001: 380)
+     каркытуса+V+Ind+Ipf+ScSg1: каркытундум
+     каркытуса+V+Ind+Ipf+ScSg2: каркытундуӊ
+     каркытуса+V+Ind+Ipf+ScSg3: каркытуту
+     каркытуса+V+Ind+Ipf+ScDu1: каркытутуми
+     каркытуса+V+Ind+Ipf+ScDu2: каркытутури
+     каркытуса+V+Ind+Ipf+ScDu3: каркытутугәй
+     каркытуса+V+Ind+Ipf+ScPl1: каркытутумуˮ
+     каркытуса+V+Ind+Ipf+ScPl2: каркытутуруˮ
+     каркытуса+V+Ind+Ipf+ScPl3: каркытундуˮ

@@ -1,0 +1,31 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Verb - басудя: # Verb II. '/(eng) to hunt/(rus) охотиться' - 
+# Nganasan verbs (imperfective, present tense)
+# NgDic 2001; typed up FS
+# Verb stems ending in -у/-ү
+# (2001: 380)
+
+     басудя+V+Ind+Ipf+ScSg1: басутум
+     басудя+V+Ind+Ipf+ScSg2: басутуӊ
+     басудя+V+Ind+Ipf+ScSg3: басуту
+     басудя+V+Ind+Ipf+ScDu1: басутуми
+     басудя+V+Ind+Ipf+ScDu2: басутури
+     басудя+V+Ind+Ipf+ScDu3: басутугәй
+     басудя+V+Ind+Ipf+ScPl1: басутумуˮ
+     басудя+V+Ind+Ipf+ScPl2: басутуруˮ
+     басудя+V+Ind+Ipf+ScPl3: басутуˮ
