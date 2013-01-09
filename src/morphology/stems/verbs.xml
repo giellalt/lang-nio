@@ -24,4 +24,50 @@
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l>каркытуса</l>
+         <stg>
+            <st Contlex="V-karkytusa">каркыту</st>
+         </stg>
+      </lg>
+      <pos>V</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t pos="V">twitch</t>
+         </tg>
+         <tg lang="fin">
+            <t pos="V"></t>
+         </tg>
+         <tg lang="rus">
+            <t pos="V">дёргаться</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>басудя</l>
+         <stg>
+            <st Contlex="V-basudja">басу</st>
+         </stg>
+      </lg>
+      <pos>V</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t pos="V">hunt</t>
+         </tg>
+         <tg lang="fin">
+            <t pos="V">metsästää</t>
+         </tg>
+         <tg lang="rus">
+            <t pos="V">охотиться</t>
+         </tg>
+      </mg>
+   </e>
 </r>

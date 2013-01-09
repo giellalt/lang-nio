@@ -8,4 +8,31 @@ LEXICON VERB
 +Prt+Sc3Sg:%>уˮо # ;
 +Prt+Sc3Sg:%>унту # ;
 
+!каркытуса:каркыту
+LEXICON V-karkytusa
+V+Ind+Ipf+ScSg1:%>ндум K ;
+V+Ind+Ipf+ScSg2:%>ндуӊ K ;
+V+Ind+Ipf+ScSg3:%>ту K ;
+V+Ind+Ipf+ScDu1:%>туми K ;
+V+Ind+Ipf+ScDu2:%>тури	K ;
+V+Ind+Ipf+ScDu3:%>тугәй K ;
+V+Ind+Ipf+ScPl1:%>тумуˮ	K ;
+V+Ind+Ipf+ScPl2:%>туруˮ	K ;
+V+Ind+Ipf+ScPl3:%>ндуˮ	K ;
+
+!басудя:басу
+LEXICON V-basudja
+V+Ind+Ipf+ScSg1:%>тум	K ;
+V+Ind+Ipf+ScSg2:%>туӊ	K ;
+V+Ind+Ipf+ScSg3:%>ту	K ;
+V+Ind+Ipf+ScDu1:%>туми	K ;
+V+Ind+Ipf+ScDu2:%>тури	K ;
+V+Ind+Ipf+ScDu3:%>тугәй K ;
+V+Ind+Ipf+ScPl1:%>тумуˮ	K ;
+V+Ind+Ipf+ScPl2:%>туруˮ	K ;
+V+Ind+Ipf+ScPl3:%>туˮ	K ;
+
+
+
+
 ! vim: set ft=xfst-lexc:
