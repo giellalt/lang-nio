@@ -1,4 +1,4 @@
-! Nganasan twol file
+!! !!!Nganasan twol file
 
 Alphabet
 
@@ -57,11 +57,14 @@ Definitions
 Rules
 
 "й:0 when followed by vowel in VowelPalatalization"
+!! __@RULENAME@__  
 й:0 <=> _ %>: [ а: | у: ] ;
 
 "а:я VowelPalatalization"
+!! __@RULENAME@__  
 а:я <=> й: %>: _ ;
 
 "у:ю VowelPalatalization"
+!! __@RULENAME@__  
 у:ю <=> й: %>: _ ;
 
