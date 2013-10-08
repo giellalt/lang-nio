@@ -14,11 +14,11 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t pos="V">say</t>
             <t pos="V">tell</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t pos="V">sanoa</t>
             <t pos="V">kertoa</t>
          </tg>
@@ -36,13 +36,13 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t pos="V">twitch</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t pos="V"></t>
          </tg>
-         <tg lang="rus">
+         <tg xml:lang="rus">
             <t pos="V">дёргаться</t>
          </tg>
       </mg>
@@ -59,13 +59,13 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t pos="V">hunt</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t pos="V">metsästää</t>
          </tg>
-         <tg lang="rus">
+         <tg xml:lang="rus">
             <t pos="V">охотиться</t>
          </tg>
       </mg>

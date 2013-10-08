@@ -14,10 +14,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>bear</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>karhu</t>
          </tg>
       </mg>
@@ -34,10 +34,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>moose</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>hirvi</t>
          </tg>
       </mg>
@@ -54,10 +54,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>husband</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>aviomies</t>
          </tg>
       </mg>
@@ -74,10 +74,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>shaman</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>šamaani</t>
          </tg>
       </mg>
@@ -94,10 +94,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>god</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>jumala</t>
          </tg>
       </mg>
@@ -114,10 +114,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>reindeer</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>poro</t>
          </tg>
       </mg>
@@ -134,10 +134,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>mouse</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>hiiri</t>
          </tg>
       </mg>
@@ -154,10 +154,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>wolf</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>susi</t>
          </tg>
       </mg>
@@ -174,10 +174,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>moon</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>kuu</t>
          </tg>
       </mg>
