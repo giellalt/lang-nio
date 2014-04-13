@@ -9,7 +9,7 @@
   / [affixes|https://victorio.uit.no/langtech/trunk/langs/nio/src/morphology/affixes/] 
   / [syntax|https://victorio.uit.no/langtech/trunk/langs/nio/src/syntax] 
   / [twolc|https://victorio.uit.no/langtech/trunk/langs/nio/src/phonology/nio-phon.twolc]   
-  / [yaml|https://victorio.uit.no/langtech/trunk/langs/nio/test/src/morphology/]
+  / [yaml|https://victorio.uit.no/langtech/trunk/langs/nio/test/src/gt-norm-yamls/]
 * Generation of: [paradigms|http://giellatekno.uit.no/cgi/p-nio.eng.html]
   / [text|http://giellatekno.uit.no/cgi/d-nio.eng.html]
 
