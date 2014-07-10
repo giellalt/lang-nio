@@ -26,14 +26,14 @@ Multichar_Symbols
 
 !! The parts-of-speech are:
  +N +A +Adv +V
- +Pron +CS +CC +Adp +Po +Pr +Interj +Pcle +Num 
+ +Pron +CS +CC +Adp +Po +Pr +Interj +Pcle +Num
 
 !! The parts of speech are further split up into:
  +Prop +Pers +Dem +Interr +Refl +Recipr +Rel +Indef
 
 !! The Usage extents are marked using following tags:
- +Err/Sub   
- +Use/-Spell 
+ +Err/Sub
+ +Use/-Spell
 
 !! The nominals are inflected in the following Case and Number
  +Sg +Du +Pl
@@ -45,7 +45,7 @@ Multichar_Symbols
  +Comp +Superl
 !! Numerals are classified under:
  +Attr +Card
- +Ord 
+ +Ord
 !! Verb moods are:
  +Ind +Prs +Prt +Pot +Cond +Imprt
 !! Verb aspects are:
@@ -57,7 +57,7 @@ Multichar_Symbols
  +Inf +Ger +ConNeg +ConNegII +Neg +ImprtII +PrsPrc +PrfPrc +Sup +VGen +VAbess
 
 ! Abbreviated words are classified with:
- +ABBR +ACR 
+ +ABBR +ACR
 !! Special symbols are classified with:
 +CLB +PUNCT +LEFT +RIGHT
 !! The verbs are syntactically split according to transitivity:
@@ -72,20 +72,20 @@ Multichar_Symbols
  +Clt
 
 !! Semantics are classified with
- +Mal +Fem +Sur 
- +Plc 
+ +Mal +Fem +Sur
+ +Plc
  +Org
  +Obj
  +Ani
  +Hum
  +Plant
  +Group
- +Time 
+ +Time
  +Txt
  +Route
- +Measr 
+ +Measr
  +Wthr
- +Build 
+ +Build
  +Edu
  +Veh
  +Clth
@@ -148,11 +148,11 @@ LEXICON Cc
 
 LEXICON CT
 +CS: # ;
- 
-LEXICON SUBJUNCTION  
+
+LEXICON SUBJUNCTION
 # ;
 
-LEXICON INTERJECTION 
+LEXICON INTERJECTION
 # ;
 
 LEXICON NUMERAL
@@ -169,23 +169,23 @@ LEXICON ORDINAL
 
 
 LEXICON K
-#; 
+#;
 
 
 LEXICON PUNCTUATION
-#; 
+#;
 LEXICON POSTPOSITION
-#; 
+#;
 
 LEXICON CADJ
-+A: #; 
++A: #;
 LEXICON DADJ
-+A: #; 
++A: #;
 LEXICON VADJ
 +A: #;
- 
+
 LEXICON AdvTag
-+Adv: # ; 
++Adv: # ;
 
 LEXICON MannerTag
 +Adv+Manner: K ;
@@ -197,13 +197,13 @@ LEXICON TempTag
 +Adv+Temp: K ;
 
 LEXICON CASESUF
-#; 
+#;
 LEXICON PRON
-#; 
+#;
 LEXICON DEM
-#; 
+#;
 LEXICON PERS
-#; 
+#;
 
 
 ! vim: set ft=xfst-lexc:
