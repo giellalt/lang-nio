@@ -1,4 +1,4 @@
-! Divvun & Giellatekno - open source grammars for __UNDEFINED__ language
+! Divvun & Giellatekno - open source grammars for Nganasan language
 ! Copyright © 2015 The University of Tromsø & the Norwegian Sámi Parliament
 ! http://giellatekno.uit.no & http://divvun.no
 !
@@ -13,16 +13,16 @@
 ! giellatekno@uit.no or feedback@divvun.no
 
 ! ========================================================================== !
-! !!            !!!__UNDEFINED__ morphological analyser                      !
+! !!            !!!Nganasan morphological analyser                      !
 ! ========================================================================== !
-!! INTRODUCTION TO MORPHOLOGICAL ANALYSER OF __UNDEFINED__ LANGUAGE.
+!! INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Nganasan LANGUAGE.
  
 
 Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 
 !! !!Analysis symbols
 !! ----------------
-!! The morphological analyses of wordforms for the __UNDEFINED__
+!! The morphological analyses of wordforms for the Nganasan
 !! language are presented in this system in terms of the following symbols.
 !! (It is highly suggested to follow existing standards when adding new tags).
 
