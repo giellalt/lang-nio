@@ -4,12 +4,11 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <e>
       <lg>
-         <l>ситі</l>
+         <l pos="Num">ситі</l>
          <stg>
             <st Contlex="Num1">ситі</st>
          </stg>
       </lg>
-      <pos>NUM</pos>
       <mg>
          <m>
             <head/>
@@ -24,12 +23,11 @@
    </e>
    <e>
       <lg>
-         <l>нагӱрь</l>
+         <l pos="Num">нагӱрь</l>
          <stg>
             <st Contlex="Num1">нагӱрь</st>
          </stg>
       </lg>
-      <pos>NUM</pos>
       <mg>
          <m>
             <head/>

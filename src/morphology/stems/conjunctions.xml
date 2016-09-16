@@ -4,12 +4,11 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <e>
       <lg>
-         <l>ӈонә</l>
+         <l pos="CC">ӈонә</l>
          <stg>
             <st Contlex="Cc">ӈонә</st>
          </stg>
       </lg>
-      <pos>CC</pos>
       <mg>
          <m>
             <head/>

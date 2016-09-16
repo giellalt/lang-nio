@@ -4,12 +4,11 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <e>
       <lg>
-         <l>ӈарка</l>
+         <l pos="N">ӈарка</l>
          <stg>
             <st Contlex="Noun1">ӈарка</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
          <m>
             <head/>
@@ -24,12 +23,11 @@
    </e>
    <e>
       <lg>
-         <l>кәукиа</l>
+         <l pos="N">кәукиа</l>
          <stg>
             <st Contlex="Noun1">кәукиа</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
          <m>
             <head/>
@@ -44,12 +42,11 @@
    </e>
    <e>
       <lg>
-         <l>куодүму</l>
+         <l pos="N">куодүму</l>
          <stg>
             <st Contlex="Noun1">куодүму</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
          <m>
             <head/>
@@ -64,12 +61,11 @@
    </e>
    <e>
       <lg>
-         <l>ӈе”</l>
+         <l pos="N">ӈе”</l>
          <stg>
             <st Contlex="Noun1">ӈе”</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
          <m>
             <head/>
@@ -84,12 +80,11 @@
    </e>
    <e>
       <lg>
-         <l>ӈуо</l>
+         <l pos="N">ӈуо</l>
          <stg>
             <st Contlex="Noun1">ӈуо</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
          <m>
             <head/>
@@ -104,12 +99,11 @@
    </e>
    <e>
       <lg>
-         <l>таа</l>
+         <l pos="N">таа</l>
          <stg>
             <st Contlex="Noun1">таа</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
          <m>
             <head/>
@@ -124,12 +118,11 @@
    </e>
    <e>
       <lg>
-         <l>томуӈку</l>
+         <l pos="N">томуӈку</l>
          <stg>
             <st Contlex="Noun1">томуӈку</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
          <m>
             <head/>
@@ -144,12 +137,11 @@
    </e>
    <e>
       <lg>
-         <l>ӈүляǯә</l>
+         <l pos="N">ӈүляǯә</l>
          <stg>
             <st Contlex="Noun1">ӈүляǯә</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
          <m>
             <head/>
@@ -164,12 +156,11 @@
    </e>
    <e>
       <lg>
-         <l>китеǯә</l>
+         <l pos="N">китеǯә</l>
          <stg>
             <st Contlex="Noun1">китеǯә</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
          <m>
             <head/>
