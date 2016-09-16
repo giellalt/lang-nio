@@ -4,12 +4,11 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <e>
       <lg>
-         <l>мунса</l>
+         <l pos="V">мунса</l>
          <stg>
             <st Contlex="V-munsa">мун</st>
          </stg>
       </lg>
-      <pos>V</pos>
       <mg>
          <m>
             <head/>
@@ -26,12 +25,11 @@
    </e>
    <e>
       <lg>
-         <l>каркытуса</l>
+         <l pos="V">каркытуса</l>
          <stg>
             <st Contlex="V-karkytusa">каркыту</st>
          </stg>
       </lg>
-      <pos>V</pos>
       <mg>
          <m>
             <head/>
@@ -49,12 +47,11 @@
    </e>
    <e>
       <lg>
-         <l>басудя</l>
+         <l pos="V">басудя</l>
          <stg>
             <st Contlex="V-basudja">басу</st>
          </stg>
       </lg>
-      <pos>V</pos>
       <mg>
          <m>
             <head/>
