@@ -13,3 +13,7 @@ accordance with our open-source philosophy, but may not be compatible with the
 license of the files to be used for lexicalisation. If so, contact the
 administrators to discuss alternative solutions compatible with the lexical
 resource's license.
+
+# 2016-09-16
+Importing wordlist associated with Kosterkina et al 2001.
+Initial e/lg/l and e/lg/stg have been set. Proofreading still required. Pos required.
