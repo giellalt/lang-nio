@@ -146,6 +146,7 @@ LEXICON Root
 !! word classes, or optionally from prefixes:
    adjectives  ;
    adverbs  ;
+   conjunctions ;
    nouns   ;
    quantifiers    ;
    verbs   ;
