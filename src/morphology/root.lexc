@@ -142,7 +142,7 @@ D1 E1 U1
  @U.Cap.Opt@        !!≈ | @CODE@ | Allowing downcasing of derived names: deatnulasj.
 
 LEXICON Root
-!! The word forms in UNDEFINED language start from the lexeme roots of basic
+!! The word forms in Nganasan language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
    adjectives  ;
    adverbs  ;
@@ -150,6 +150,8 @@ LEXICON Root
    nouns   ;
    quantifiers    ;
    verbs   ;
+    Punctuation ;
+    Symbols     ;
 
    Abbreviation    ;
    Acronym    ;
