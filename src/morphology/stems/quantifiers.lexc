@@ -1,5 +1,5 @@
 
 LEXICON quantifiers
 
-ситі:ситі Num1  "kaksi" ;
-нагӱрь:нагӱрь Num1  "kolme" ;
+ситі+Num:ситі Num1  "kaksi" ;
+нагӱрь+Num:нагӱрь Num1  "kolme" ;
