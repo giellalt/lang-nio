@@ -1,0 +1,70 @@
+!! !!!Nganasan twol file
+
+Alphabet
+
+! Letters of the alphabet
+а б в г д е ё ж з и й к л м н ӈ о п р с т у ф х ц ч ш щ ъ ы ь э ю я
+А Б В Г Д Е Ё Ж З И Й К Л М Н Ӈ О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я
+
+ ˮ ! Non-nasal glottal
+ ʼ ! Nasal glottal
+
+! other symbols
+   %- !0
+
+
+
+! Boundary symbols
+
+ %>:0
+ %-
+
+Cx
+Cy
+X
+Y
+
+ ;
+
+
+
+Sets
+Vows =   о у ё ю О У Ё Ю ;
+Ve =   ӓ а е и э я Ӓ А Е И Э Я ;
+Vws =  Vo VO Ve ы Ы  ӹ Ӹ ; 
+
+CnsNotGlots = б в г д ж з й к л м н п р с т ф х ц
+              Б В Г Д Ж З Й К Л М Н П Р С Т Ф Х Ц
+              ч ш щ
+              Ч Ш Щ  ;
+Glots = ˮ ʼ ;
+
+Cns =  б в г д ж з к л м н ҥ п р с т ф х ц ч ш 
+       Б В Г Д Ж З К Л М Н Ҥ П Р С Т Ф Х Ц Ч Ш ;
+Cst =  к п т ф х ц ч ш с 
+       К П Т Ф Х Ц Ч Ш Ц ;
+
+Ltrs = Vws Cns  ъ ь Ъ Ь ;
+
+all =  Ltrs  %- ;
+
+
+
+
+Definitions
+
+
+Rules
+
+"й:0 when followed by vowel in VowelPalatalization"
+!! __@RULENAME@__  
+й:0 <=> _ %>: [ а: | у: ] ;
+
+"а:я VowelPalatalization"
+!! __@RULENAME@__  
+а:я <=> й: %>: _ ;
+
+"у:ю VowelPalatalization"
+!! __@RULENAME@__  
+у:ю <=> й: %>: _ ;
+
