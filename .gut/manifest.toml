@@ -1,0 +1,35 @@
+[package]
+name = "nio"
+human_name = "Nganasan"
+version = "0.1.0"
+
+# Table of speller tag -> filename to include in the bundle
+# filenames depends on specific project
+[spellers.nio]
+filename = "nio-mobile.zhfst"
+
+# Table of bundles to generated
+# key is the type of bundle
+# Windows speller bundle require a uuid for the installer
+[bundles.speller_win]
+package = "speller-nio"
+platform = "windows"
+uuid = "3AA74247-088E-46D3-AEF5-C1E7FA587799"
+repo = "https://pahkat.uit.no/main/"
+
+[bundles.speller_macos]
+pkg_id = "no.divvun.MacDivvun.nio"
+package = "speller-nio"
+platform = "macos"
+repo = "https://pahkat.uit.no/main/"
+
+[bundles.speller_win_mso]
+package = "speller-nio-mso"
+platform = "windows"
+uuid = "AF5ED7AB-E77E-48F3-8ABC-23ABDB873FF0"
+repo = "https://pahkat.uit.no/main/"
+
+[bundles.speller_mobile]
+package = "speller-nio"
+platform = "mobile"
+repo = "https://pahkat.uit.no/main/"
