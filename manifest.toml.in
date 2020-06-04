@@ -1,0 +1,9 @@
+name = "Nganasan"
+version = "@SPELLERVERSION@"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.nio"
+
+[windows]
+system_product_code = "3AA74247-088E-46D3-AEF5-C1E7FA587799"
+msoffice_product_code = "AF5ED7AB-E77E-48F3-8ABC-23ABDB873FF0"
