@@ -22,7 +22,7 @@ Documentation
 
 Documentation can be found at:
 
--   <https://giellalt.uit.no/lang/niodoc/index.html>
+-   <https://giellalt.uit.no/lang/nio/NganasanDocumentation.html>
 -   <https://giellalt.uit.no/index.html>
 
 Core dependencies
