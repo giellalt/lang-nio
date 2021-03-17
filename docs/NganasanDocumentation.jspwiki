@@ -2,16 +2,14 @@
 
 
 
-!!! Dynamic documentation
 
-* [Links to generated source file documentation|Links.html]
-* Source files: [stems|https://gtsvn.uit.no/langtech/trunk/langs/nio/src/fst/stems/]   
-  / [affixes|https://gtsvn.uit.no/langtech/trunk/langs/nio/src/fst/affixes/] 
-  / [syntax|https://gtsvn.uit.no/langtech/trunk/langs/nio/src/syntax] 
-  / [twolc|https://gtsvn.uit.no/langtech/trunk/langs/nio/src/phonology/nio-phon.twolc]   
-  / [yaml|https://gtsvn.uit.no/langtech/trunk/langs/nio/test/src/gt-norm-yamls/]
+
+ 
+ 
+ 
+ 
 * Generation of: [paradigms|http://giellatekno.uit.no/cgi/p-nio.eng.html]
-  / [text|http://giellatekno.uit.no/cgi/d-nio.eng.html]
+ 
 
 !!! Grammatical issues
 
