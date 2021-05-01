@@ -1,2 +1,7 @@
-* [root-morphology.md](root-morphology.md)
+* [nouns-affixes.md](nouns-affixes.md)
+* [propernouns-affixes.md](propernouns-affixes.md)
+* [symbols-affixes.md](symbols-affixes.md)
+* [adjectives-affixes.md](adjectives-affixes.md)
 * [phonology-morphology.md](phonology-morphology.md)
+* [root-morphology.md](root-morphology.md)
+* [transcriptor-abbrevs2text.md](transcriptor-abbrevs2text.md)

@@ -1,4 +1,108 @@
 
+
+
+
+
+
+
+
+ACTUAL CASES !!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Start Plural
+
+
+
+
+
+
+
+
+
+Start Dual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Possessor Indices
+
+
+Proper noun inflection
+The Nganasan language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+PROPER NOUNS !!
+
+
+
+
+
+
+# Symbol affixes
+
+
+
+
+
+Adjective inflection
+The Nganasan language adjectives compare.
+
+
+
+
+# Nganasan twol file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**й:0 when followed by vowel in VowelPalatalization**  
+
+**а:я VowelPalatalization**  
+
+**у:ю VowelPalatalization**  
+
+
 # Nganasan morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Nganasan LANGUAGE.
 
@@ -105,34 +209,19 @@ word classes, or optionally from prefixes:
 
 
 
-# Nganasan twol file
 
 
 
+We describe here how abbreviations are in Nganasan are read out, e.g.
+for text-to-speech systems.
 
+For example:
 
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**й:0 when followed by vowel in VowelPalatalization**  
-
-**а:я VowelPalatalization**  
-
-**у:ю VowelPalatalization**  
 

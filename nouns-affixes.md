@@ -1,0 +1,50 @@
+
+
+
+
+
+
+
+
+ACTUAL CASES !!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Start Plural
+
+
+
+
+
+
+
+
+
+Start Dual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Possessor Indices
+
+
