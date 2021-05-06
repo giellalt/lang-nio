@@ -1,3 +1,41 @@
+# Nganasan twol file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**й:0 when followed by vowel in VowelPalatalization**  
+
+**а:я VowelPalatalization**  
+
+**у:ю VowelPalatalization**  
+
+
+# Symbol affixes
+
+
+
+
+
 
 
 
@@ -58,49 +96,11 @@ PROPER NOUNS !!
 
 
 
-
-# Symbol affixes
-
-
-
-
-
 Adjective inflection
 The Nganasan language adjectives compare.
 
 
 
-
-# Nganasan twol file
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**й:0 when followed by vowel in VowelPalatalization**  
-
-**а:я VowelPalatalization**  
-
-**у:ю VowelPalatalization**  
 
 
 # Nganasan morphological analyser                      !
