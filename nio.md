@@ -605,40 +605,18 @@ These were the set types.
 
 
 
-# Nganasan twol file
+Proper noun inflection
+The Nganasan language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+PROPER NOUNS !!
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**й:0 when followed by vowel in VowelPalatalization**  
-
-**а:я VowelPalatalization**  
-
-**у:ю VowelPalatalization**  
-
-
-# Symbol affixes
-
+Adjective inflection
+The Nganasan language adjectives compare.
 
 
 
@@ -693,21 +671,43 @@ Start Dual
 Possessor Indices
 
 
-Proper noun inflection
-The Nganasan language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
 
-PROPER NOUNS !!
+# Symbol affixes
 
 
 
 
 
-Adjective inflection
-The Nganasan language adjectives compare.
+# Nganasan twol file
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**й:0 when followed by vowel in VowelPalatalization**  
+
+**а:я VowelPalatalization**  
+
+**у:ю VowelPalatalization**  
 
 
 # Nganasan morphological analyser                      !
