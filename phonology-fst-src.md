@@ -1,5 +1,7 @@
 # Nganasan twol file
 
+This file documents the [phonology.twolc file](http://github.com/giellalt/lang-nio/blob/main/src/fst/phonology.twolc) 
+
 
 
 
