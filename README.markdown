@@ -3,13 +3,13 @@ The Nganasan morphology and tools
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-nio)](https://github.com/giellalt/lang-nio/issues)
 [![Build Status](https://github.com/giellalt/lang-nio/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-nio/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-nio)](https://raw.githubusercontent.com/giellalt/lang-nio/develop/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-nio)](https://raw.githubusercontent.com/giellalt/lang-nio/main/LICENSE)
 
 This repository contains finite state source files for the Nganasan language,
 for building morphological analysers, proofing tools
 and dictionaries. The data and implementation are licenced under __LICENCE__
 licence, also detailed in the
-[LICENCE](https://github.com/giellalt/lang-nio/blob/develop/LICENCE). The
+[LICENSE](https://github.com/giellalt/lang-nio/blob/main/LICENSE). The
 authors named in the AUTHORS file are available to grant other licencing
 choices.
 
@@ -77,7 +77,7 @@ svn checkout https://github.com/giellalt/lang-nio.git/trunk lang-nio
 Building and installation
 -------------------------
 
-[INSTALL](https://github.com/giellalt/lang-nio/blob/develop/INSTALL)
+[INSTALL](https://github.com/giellalt/lang-nio/blob/main/INSTALL)
 describes the GNU build system in detail, but for most users it is the usual:
 
 ```sh
