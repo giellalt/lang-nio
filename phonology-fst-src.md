@@ -31,3 +31,5 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-n
 
 **у:ю VowelPalatalization**  
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/phonology.twolc)</small>

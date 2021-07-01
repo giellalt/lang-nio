@@ -199,7 +199,7 @@
 * Sets for verbs
 
 
-    - V is all readings with a V tag in them, REAL-V should
+- V is all readings with a V tag in them, REAL-V should
 be the ones without an N tag following the V.  
 The REAL-V set thus awaits a fix to the preprocess V ... N bug.
 
@@ -605,113 +605,8 @@ These were the set types.
 
 
 
-Proper noun inflection
-The Nganasan language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
-
-PROPER NOUNS !!
-
-
-
-
-
-Adjective inflection
-The Nganasan language adjectives compare.
-
-
-
-
-
-
-
-
-
-
-
-
-ACTUAL CASES !!
-
-
-
-
-
-
-
-
-
-
-
-
-
-Start Plural
-
-
-
-
-
-
-
-
-
-Start Dual
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Possessor Indices
-
-
-
-# Symbol affixes
-
-
-
-
-
-# Nganasan twol file
-
-This file documents the [phonology.twolc file](http://github.com/giellalt/lang-nio/blob/main/src/fst/phonology.twolc) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**й:0 when followed by vowel in VowelPalatalization**  
-
-**а:я VowelPalatalization**  
-
-**у:ю VowelPalatalization**  
-
-
+* * *
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-nio/blob/main/../src/cg3/functions.cg3)</small>
 # Nganasan morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Nganasan LANGUAGE.
 
@@ -818,7 +713,119 @@ word classes, or optionally from prefixes:
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/root.lexc)</small>Proper noun inflection
+The Nganasan language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
 
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/affixes/propernouns.lexc)</small>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Start Plural
+
+
+
+
+
+
+
+
+
+Start Dual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Possessor Indices
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/affixes/nouns.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/affixes/symbols.lexc)</small>Adjective inflection
+The Nganasan language adjectives compare.
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/affixes/adjectives.lexc)</small># Nganasan twol file
+
+This file documents the [phonology.twolc file](http://github.com/giellalt/lang-nio/blob/main/src/fst/phonology.twolc) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**й:0 when followed by vowel in VowelPalatalization**  
+
+**а:я VowelPalatalization**  
+
+**у:ю VowelPalatalization**  
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/phonology.twolc)</small>
 
 
 We describe here how abbreviations are in Nganasan are read out, e.g.
@@ -834,8 +841,9 @@ For example:
  * esim.:esimerkiksi # ; 
 
 
-
-      [ L A N G U A G E ]  G R A M M A R   C H E C K E R
+* * *
+<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-abbrevs2text.lexc](http://github.com/giellalt/lang-nio/blob/main/../src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
+[ L A N G U A G E ]  G R A M M A R   C H E C K E R
 
 
 
@@ -1245,3 +1253,5 @@ expression **WORD - premodifiers**.
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../tools/grammarcheckers/grammarchecker.cg3](http://github.com/giellalt/lang-nio/blob/main/../tools/grammarcheckers/grammarchecker.cg3)</small>
