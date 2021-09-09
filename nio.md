@@ -606,7 +606,118 @@ These were the set types.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-nio/blob/main/../src/cg3/functions.cg3)</small>
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-nio/blob/main/../src/cg3/functions.cg3)</small># Nganasan twol file
+
+This file documents the [phonology.twolc file](http://github.com/giellalt/lang-nio/blob/main/src/fst/phonology.twolc) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**й:0 when followed by vowel in VowelPalatalization**  
+
+**а:я VowelPalatalization**  
+
+**у:ю VowelPalatalization**  
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/phonology.twolc)</small>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Start Plural
+
+
+
+
+
+
+
+
+
+Start Dual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Possessor Indices
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/affixes/nouns.lexc)</small>Proper noun inflection
+The Nganasan language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/affixes/propernouns.lexc)</small>Adjective inflection
+The Nganasan language adjectives compare.
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/affixes/adjectives.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/affixes/symbols.lexc)</small>
 # Nganasan morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Nganasan LANGUAGE.
 
@@ -714,118 +825,7 @@ word classes, or optionally from prefixes:
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/root.lexc)</small># Nganasan twol file
-
-This file documents the [phonology.twolc file](http://github.com/giellalt/lang-nio/blob/main/src/fst/phonology.twolc) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**й:0 when followed by vowel in VowelPalatalization**  
-
-**а:я VowelPalatalization**  
-
-**у:ю VowelPalatalization**  
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/phonology.twolc)</small>
-# Symbol affixes
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/affixes/symbols.lexc)</small>Proper noun inflection
-The Nganasan language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/affixes/propernouns.lexc)</small>Adjective inflection
-The Nganasan language adjectives compare.
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/affixes/adjectives.lexc)</small>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Start Plural
-
-
-
-
-
-
-
-
-
-Start Dual
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Possessor Indices
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/affixes/nouns.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/root.lexc)</small>
 
 
 We describe here how abbreviations are in Nganasan are read out, e.g.
