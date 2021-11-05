@@ -641,6 +641,14 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-n
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/phonology.twolc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/affixes/symbols.lexc)</small>
 
 
 
@@ -691,15 +699,7 @@ Possessor Indices
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/affixes/nouns.lexc)</small>
-# Symbol affixes
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/affixes/symbols.lexc)</small>Adjective inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/affixes/nouns.lexc)</small>Adjective inflection
 The Nganasan language adjectives compare.
 
 
