@@ -6,6 +6,8 @@
 [![Build status](https://github.com/giellalt/lang-nio/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-nio/actions)
 
 This page documents the work on the **Nganasan language model**. 
+It is still in an initial state, and contains approximately
+hundred words.
 
 # Project documentation
 
