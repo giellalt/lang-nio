@@ -2,7 +2,6 @@
 # Nganasan morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Nganasan LANGUAGE.
 
-
 # Definitions for Multichar_Symbols
 
 ## Analysis symbols
@@ -37,10 +36,8 @@ Question and Focus particles:
 
 Semantics are classified with
 
-
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
-
 
 Morphophonology
 To represent phonologic variations in word forms we use the following
@@ -79,31 +76,9 @@ given the proper use of these flags.
 The word forms in Nganasan language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-nio/blob/main/../src/fst/root.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-nio/blob/main/src/fst/root.lexc)</small>
+
+---
+
