@@ -16,7 +16,12 @@
 ## along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 # Add language-specific flags for hfst-lexc compilation here:
-HFST_LEXC_LOCAL_FLAGS=
+if HAVE_SHARED_COMMON
+HFST_LEXC_LOCAL_FLAGS=  # --Werror # uncomment if lexc is good enough
+else
+HFST_LEXC_LOCAL_FLAGS=  # No --Werror if deps are missing !
+endif
+
 
 ####### Morphology source file defs: ########
 
