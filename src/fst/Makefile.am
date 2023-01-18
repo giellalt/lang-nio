@@ -65,6 +65,26 @@ GENERATED_LEXC_SRCS=\
 			 generated_files/punctuation.lexc \
 			 generated_files/symbols.lexc
 
+# change handling of shared lexical data here:
+if HAVE_SHARED_COMMON
+url.tmp.lexc: $(gt_SHARED_common)/src/fst/url.lexc
+	$(AM_V_CP)cp -f $< $@
+
+generated_files/mul-$(GLANG)-%.lexc: $(gt_SHARED_common)/src/fst/stems/%.lexc
+	$(AM_V_at)$(MKDIR_P) generated_files
+	$(AM_V_CP)cp -f $< $@
+else
+# this is "safe" fallback (compiles but you miss everything)
+url.tmp.lexc:
+	echo "LEXICON Root" > $@
+	echo "< h t t p (s) %: %/ %/ ?*> # ;" >> $@
+
+generated_files/mul-$(GLANG)-%.lexc:
+	$(AM_V_at)$(MKDIR_P) generated_files
+	echo "! Missing shared common data" > $@
+endif
+# add other lexical shared data handling here
+
 # Set this to the names of all source xml files, if any
 GT_XML_SRCS=\
 			 stems/adjectives.xml \
