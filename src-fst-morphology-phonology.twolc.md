@@ -11,6 +11,3 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-n
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/phonology.twolc](https://github.com/giellalt/lang-nio/blob/main/src/fst/morphology/phonology.twolc)</small>
-
----
-
