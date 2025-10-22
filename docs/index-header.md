@@ -4,7 +4,7 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-nio%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-nio)](https://github.com/giellalt/lang-nio/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-nio)](https://github.com/giellalt/lang-nio/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-nio/main/badge.svg)](https://github.com/giellalt/lang-nio/actions)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-nio?label=CI)](https://builds.giellalt.org/pipelines/lang-nio/builds/latest)
 
 This page documents the work on the **Nganasan language model**. 
 It is still in an initial state, and contains approximately
