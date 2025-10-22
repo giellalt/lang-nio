@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-nio)](https://github.com/giellalt/lang-nio/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-nio)](https://github.com/giellalt/lang-nio/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-nio?label=CI)](https://builds.giellalt.org/pipelines/lang-nio/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/ngan1291)
 
 This page documents the work on the **Nganasan language model**. 
 It is still in an initial state, and contains approximately
